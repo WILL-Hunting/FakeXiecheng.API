@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\ASPNETCore\\Demo\\FakeXiecheng.API\\FakeXiecheng.API\\FakeXiecheng.API.csproj": {}
+    "C:\\Users\\Administrator\\Source\\Repos\\WILL-Hunting\\FakeXiecheng.API\\FakeXiecheng.API\\FakeXiecheng.API.csproj": {}
   },
   "projects": {
-    "E:\\ASPNETCore\\Demo\\FakeXiecheng.API\\FakeXiecheng.API\\FakeXiecheng.API.csproj": {
+    "C:\\Users\\Administrator\\Source\\Repos\\WILL-Hunting\\FakeXiecheng.API\\FakeXiecheng.API\\FakeXiecheng.API.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\ASPNETCore\\Demo\\FakeXiecheng.API\\FakeXiecheng.API\\FakeXiecheng.API.csproj",
+        "projectUniqueName": "C:\\Users\\Administrator\\Source\\Repos\\WILL-Hunting\\FakeXiecheng.API\\FakeXiecheng.API\\FakeXiecheng.API.csproj",
         "projectName": "FakeXiecheng.API",
-        "projectPath": "E:\\ASPNETCore\\Demo\\FakeXiecheng.API\\FakeXiecheng.API\\FakeXiecheng.API.csproj",
+        "projectPath": "C:\\Users\\Administrator\\Source\\Repos\\WILL-Hunting\\FakeXiecheng.API\\FakeXiecheng.API\\FakeXiecheng.API.csproj",
         "packagesPath": "C:\\Users\\Administrator\\.nuget\\packages\\",
-        "outputPath": "E:\\ASPNETCore\\Demo\\FakeXiecheng.API\\FakeXiecheng.API\\obj\\",
+        "outputPath": "C:\\Users\\Administrator\\Source\\Repos\\WILL-Hunting\\FakeXiecheng.API\\FakeXiecheng.API\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Administrator\\AppData\\Roaming\\NuGet\\NuGet.Config",
